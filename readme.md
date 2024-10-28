@@ -20,7 +20,7 @@ This project aims to colorize grayscale images using a deep learning model that 
 
 ## Installation
 
-  **Clone the repository** :'
+  **Clone the repository** :
 ```bash
 
    git clone https://github.com/duvarakeshss/colorizeAI
@@ -39,11 +39,12 @@ This project aims to colorize grayscale images using a deep learning model that 
 
    **Set up directory structure** :
    Organize your images as:
+   ```bash
 
    ├── data
    │   ├── train_black    # Grayscale training images
    │   └── train_color    # Color training images
-
+   ```
 ## Model Evaluation
 
 To measure colorization quality:
