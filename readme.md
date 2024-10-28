@@ -6,9 +6,6 @@ This project aims to colorize grayscale images using a deep learning model that 
 
 * [Features](#features)
 * [Installation](#installation)
-* [Usage](#usage)
-* [Training](#training)
-* [Testing](#testing)
 * [Results](#results)
 * [Model Evaluation](#model-evaluation)
 * [Acknowledgements](#acknowledgements)
@@ -23,13 +20,13 @@ This project aims to colorize grayscale images using a deep learning model that 
 
 ## Installation
 
-1. **Clone the repository** :'
+  **Clone the repository** :'
 ```bash
 
    git clone https://github.com/duvarakeshss/colorizeAI
    cd colorizeAI
 ```
-1. **Install dependencies** :
+   **Install dependencies** :
    ```bash
    pip install -r requirements.txt
    ```
