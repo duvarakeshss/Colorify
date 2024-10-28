@@ -37,8 +37,8 @@ This project aims to colorize grayscale images using a deep learning model that 
 * `OpenCV`
 * `NumPy`
 
-   **Set up directory structure** :
-   Organize your images as:
+**Set up directory structure** :
+Organize your images as:
    ```bash
 
    ├── data
